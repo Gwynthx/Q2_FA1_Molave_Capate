@@ -23,5 +23,8 @@ print("Product:", multiply(num1, num2))
 if num2 == 0:
     print("Division: Cannot divide by zero")
 else:
+
+for the activity this week. just incase the read me is not working.
+https://colab.research.google.com/github/Gwynthx/Q2_FA1_Molave_Capate/blob/main/Copy_of_CS2_Capate_iterative_control_structures_.ipynb
     print("Division:", divide(num1, num2))
     
